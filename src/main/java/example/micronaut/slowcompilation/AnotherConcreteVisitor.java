@@ -53,7 +53,7 @@ import example.micronaut.slowcompilation.types.Type79;
 import example.micronaut.slowcompilation.types.Type80;
 import jakarta.inject.Singleton;
 
-@Singleton
+//@Singleton
 class AnotherConcreteVisitor extends DefaultVisitor {
 
     @Override

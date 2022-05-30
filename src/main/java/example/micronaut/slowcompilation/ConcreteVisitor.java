@@ -42,7 +42,7 @@ import example.micronaut.slowcompilation.types.Type8;
 import example.micronaut.slowcompilation.types.Type9;
 import jakarta.inject.Singleton;
 
-@Singleton
+//@Singleton
 public class ConcreteVisitor extends DefaultVisitor {
 
     @Override
